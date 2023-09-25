@@ -4,6 +4,6 @@ public class Exception extends java.lang.Exception {
         super("Factorial Exception: Invalid input");
     }
     public Exception(String message) {
-        super("Special Factorial Exception: " + message);
+        super("Known Factorial Exception: " + message);
     }
 }
