@@ -12,7 +12,7 @@ public class Main {
             int factorial = calculateFactorial(number);
             System.out.println("Factorial of " + number + " is: " + factorial);
         } catch (Exception e) {
-            System.out.println(e.getMessage());
+            System.err.println(e.getMessage());
         }
     }
 
