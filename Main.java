@@ -1,4 +1,4 @@
-//Thaïs Bordessoul
+//TB - In-Class Activity#2
 import java.util.Scanner;
 
 public class Main {
